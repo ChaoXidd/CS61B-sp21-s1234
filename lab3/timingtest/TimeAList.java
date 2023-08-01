@@ -20,7 +20,7 @@ public class TimeAList {
     public static void main(String[] args) {
         timeAListConstruction();
     }
-
+git 
     public static void timeAListConstruction() {
         // TODO: YOUR CODE HERE
     }
